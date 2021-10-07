@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravinitheshreddy
-- 👀 I’m interested in application of Data Science in Social/Political Science.
+- 👀 I’m interested in application of Data Science in Social Sciences.
 - 🌱 I’m currently doing Master's in Digital Humanities at EPFL.
 - 📫 https://ravinitheshreddy.github.io/
 
