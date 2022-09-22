@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravinitheshreddy
 - 👀 I’m interested in application of Data Science in Social Sciences.
-- 🌱 I’m currently doing Master's in Digital Humanities at EPFL.
+- 🌱 I’m currently doing Digital Humanities Ph.D. at EPFL and working as a Research Assistant at Social Computing Group, Idiap Research Institute.
 - 📫 https://ravinitheshreddy.github.io/
 
 <!---
